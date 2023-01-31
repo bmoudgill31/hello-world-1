@@ -1,2 +1,2 @@
-<h1> Hello, Welcome Bikram !!!! </h1>
-<h1> Hello, Welcome Amyra !!!! </h1>
+<h1> Hello, Shri Ganesh !!!! </h1>
+<h1> Hello, Om Namah Shivaye !!!! </h1>
