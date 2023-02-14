@@ -3,4 +3,4 @@ From tomcat:8-jre8
 
 # Maintainer 
 MAINTAINER "Bhasker Reddy" 
-COPY ./webapp.war /opt/apache-tomcat-9.0.71/webapps
+COPY ./webapp.war /usr/local/tomcat/webapps
